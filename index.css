@@ -1,0 +1,791 @@
+.footer-child,
+.group-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-pink-300);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.group-child {
+  height: 99.49%;
+  bottom: 0.51%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+}
+.ng-k,
+.nhp-email-ca {
+  position: absolute;
+  height: 38.47%;
+  width: 33.19%;
+  top: 31.02%;
+  left: 2.45%;
+  display: inline-block;
+  font-weight: 700;
+}
+.ng-k {
+  width: 13.85%;
+  left: 74.17%;
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.group-item {
+  position: absolute;
+  height: 99.49%;
+  width: 36.08%;
+  top: 0.51%;
+  right: 0;
+  bottom: 0;
+  left: 63.92%;
+  background-color: var(--color-black);
+}
+.footer-inner,
+.rectangle-parent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.footer-inner {
+  height: 11.67%;
+  width: 48.47%;
+  top: 79.97%;
+  right: 1.53%;
+  bottom: 8.36%;
+  left: 50%;
+}
+.netsavn1 {
+  text-decoration: underline;
+}
+.netsavn {
+  color: inherit;
+}
+.wwwperfume168com-thit-container {
+  position: absolute;
+  height: 4.5%;
+  width: 48.47%;
+  top: 91.58%;
+  left: 2.71%;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  color: inherit;
+}
+.group-inner {
+  position: absolute;
+  height: 10.98%;
+  width: 43.23%;
+  top: 89.02%;
+  right: 56.77%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.hp-tc-vi,
+.quy-ch-hot,
+.trang-ch {
+  position: absolute;
+  height: 8.49%;
+  width: 30.67%;
+  top: 57.5%;
+  left: 69.33%;
+  display: inline-block;
+}
+.quy-ch-hot,
+.trang-ch {
+  width: 22.53%;
+  top: 38.34%;
+  left: 73.44%;
+}
+.trang-ch {
+  width: 12.02%;
+  top: 19.17%;
+  left: 76.86%;
+}
+.a-ch {
+  margin: 0;
+}
+.a-ch-container {
+  position: absolute;
+  height: 16.55%;
+  width: 31.05%;
+  top: 23.67%;
+  left: 35.16%;
+  display: inline-block;
+}
+.dch-v-khch,
+.hotline-0907168816,
+.lin-h-vi,
+.thng-tin {
+  position: absolute;
+  height: 8.49%;
+  width: 23.44%;
+  top: 1.24%;
+  left: 35.16%;
+  display: inline-block;
+}
+.hotline-0907168816,
+.lin-h-vi,
+.thng-tin {
+  width: 27.25%;
+  top: 50.89%;
+}
+.lin-h-vi,
+.thng-tin {
+  width: 11.49%;
+  top: 0;
+  left: 77.4%;
+}
+.lin-h-vi {
+  width: 24.58%;
+  top: 1.68%;
+  left: 0.53%;
+}
+.vector-icon {
+  height: 11.76%;
+  width: 5.18%;
+  top: 27.59%;
+  right: 85.54%;
+  bottom: 60.65%;
+  left: 9.28%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.instagram,
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 14.37%;
+  width: 5.4%;
+  top: 25.62%;
+  right: 76.94%;
+  bottom: 60.01%;
+  left: 17.66%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.instagram {
+  height: 5.44%;
+  width: 1.9%;
+  top: 29.68%;
+  right: 61.17%;
+  bottom: 64.87%;
+  left: 36.93%;
+  background-color: var(--color-gray-300);
+}
+.rectangle-group {
+  position: absolute;
+  height: 71.93%;
+  width: 91.25%;
+  top: 6.24%;
+  right: 1.88%;
+  bottom: 21.83%;
+  left: 6.88%;
+  font-size: var(--font-size-13xl);
+}
+.vector-icon2 {
+  position: absolute;
+  height: 10.02%;
+  width: 4.86%;
+  top: 25.15%;
+  right: 87.78%;
+  bottom: 64.83%;
+  left: 7.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.footer,
+.rectangle-div {
+  position: absolute;
+  top: 3041px;
+  left: -6px;
+  width: 1440px;
+  height: 551px;
+}
+.rectangle-div {
+  top: 48.99px;
+  left: 23.07px;
+  width: 448.93px;
+  height: 618.01px;
+}
+.image-4-icon,
+.rectangle-icon {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 472px;
+  height: 665px;
+}
+.image-4-icon {
+  height: 421px;
+  object-fit: cover;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 4.95%;
+  width: 8.79%;
+  top: 92.5%;
+  right: 5.2%;
+  bottom: 2.55%;
+  left: 86.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b,
+.burberry-hero-eau-container {
+  position: absolute;
+  top: 607px;
+  left: 23px;
+  display: inline-block;
+  width: 176px;
+  height: 35px;
+}
+.burberry-hero-eau-container {
+  top: 441px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  width: 425px;
+  height: 30px;
+}
+.group-child1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-red);
+  width: 73px;
+  height: 30px;
+}
+.div,
+.group-child1,
+.group-div {
+  position: absolute;
+}
+.div {
+  top: 7px;
+  left: 14px;
+  font-weight: 900;
+  display: inline-block;
+  width: 58px;
+  height: 16px;
+}
+.group-div {
+  top: 0;
+  left: 0;
+  width: 73px;
+  height: 30px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.rectangle-container {
+  position: absolute;
+  top: -1px;
+  left: 10px;
+  width: 472px;
+  height: 667px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-red);
+}
+.group-child2 {
+  position: absolute;
+  top: 46.99px;
+  left: 23.07px;
+  width: 448.93px;
+  height: 618.01px;
+}
+.group-child3,
+.image-4-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 472px;
+  height: 665px;
+}
+.image-4-icon1 {
+  height: 421px;
+  object-fit: cover;
+}
+.b1,
+.my-burberry-blush {
+  position: absolute;
+  top: 440px;
+  left: 21px;
+}
+.b1 {
+  top: 595px;
+  left: 37px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  color: var(--color-red);
+  width: 190px;
+  height: 29px;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 4.96%;
+  width: 8.79%;
+  top: 92.63%;
+  right: 5.05%;
+  bottom: 2.41%;
+  left: 86.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 973px;
+  width: 472px;
+  height: 665px;
+}
+.group-child5,
+.image-4-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 470px;
+  height: 667px;
+}
+.image-4-icon2 {
+  height: 422px;
+  object-fit: cover;
+}
+.b2,
+.mr-burberry-edt {
+  position: absolute;
+  top: 442px;
+  left: 20px;
+  display: inline-block;
+  width: 409px;
+  height: 34.82px;
+}
+.b2 {
+  top: 599px;
+  left: 10px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-red);
+  width: 178px;
+}
+.vector-icon5 {
+  position: absolute;
+  height: 4.95%;
+  width: 8.86%;
+  top: 92.2%;
+  right: 4.05%;
+  bottom: 2.85%;
+  left: 87.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child7,
+.vector-parent {
+  position: absolute;
+  top: 0;
+  left: 496px;
+  width: 470px;
+  height: 667px;
+}
+.group-child7 {
+  top: 47.99px;
+  left: 22.83px;
+  width: 444.17px;
+  height: 618.01px;
+}
+.group-child8,
+.image-4-icon3 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 472px;
+  height: 665px;
+}
+.image-4-icon3 {
+  top: 0;
+  left: 1px;
+  width: 471px;
+  height: 421px;
+  object-fit: cover;
+}
+.b3,
+.my-burberry-edp {
+  position: absolute;
+  top: 440px;
+  left: 20px;
+  display: inline-block;
+  width: 431.22px;
+}
+.b3 {
+  top: 597px;
+  left: 23px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-red);
+  width: 166.45px;
+  height: 36.77px;
+}
+.vector-icon6 {
+  position: absolute;
+  height: 5.07%;
+  width: 8.73%;
+  top: 91.44%;
+  right: 4.05%;
+  bottom: 3.48%;
+  left: 87.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-red);
+  width: 73.55px;
+  height: 30px;
+}
+.div3 {
+  position: absolute;
+  top: 7px;
+  left: 13px;
+  font-weight: 900;
+  display: inline-block;
+  width: 58.44px;
+  height: 16px;
+}
+.group-wrapper,
+.rectangle-parent5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 73.55px;
+  height: 30px;
+}
+.group-wrapper {
+  left: 1px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 750px;
+  left: 973px;
+  width: 472px;
+  height: 666px;
+}
+.group-child10,
+.image-4-icon4 {
+  position: absolute;
+  top: 0;
+  left: 11px;
+  width: 472px;
+  height: 667px;
+}
+.image-4-icon4 {
+  height: 422px;
+  object-fit: cover;
+}
+.b4,
+.burberry-her-blossom {
+  position: absolute;
+  top: 601px;
+  left: 36px;
+  display: inline-block;
+  width: 164.23px;
+}
+.burberry-her-blossom {
+  top: 441px;
+  left: 18px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  width: 407.08px;
+  height: 34.73px;
+}
+.group-child11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-red);
+  width: 73px;
+  height: 30.72px;
+}
+.div4 {
+  position: absolute;
+  top: 7.17px;
+  left: 15px;
+  font-weight: 900;
+  display: inline-block;
+  width: 58px;
+  height: 16.38px;
+}
+.group-container,
+.rectangle-parent6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 73px;
+  height: 30.72px;
+}
+.group-container {
+  top: 1px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.vector-icon7 {
+  position: absolute;
+  height: 4.95%;
+  width: 8.73%;
+  top: 91.6%;
+  right: 5.05%;
+  bottom: 3.45%;
+  left: 86.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-group {
+  position: absolute;
+  top: 749px;
+  left: -5px;
+  width: 472px;
+  height: 667px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-red);
+}
+.group-child12 {
+  position: absolute;
+  top: 49.99px;
+  left: 23.07px;
+  width: 448.93px;
+  height: 618.01px;
+}
+.group-child13,
+.image-4-icon5 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 472px;
+  height: 665px;
+}
+.image-4-icon5 {
+  height: 421px;
+  object-fit: cover;
+}
+.b5,
+.burberry-her-blossom1 {
+  position: absolute;
+  top: 442px;
+  left: 23px;
+  display: inline-block;
+  width: 411.44px;
+  height: 34.73px;
+}
+.b5 {
+  top: 602px;
+  left: 37px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-red);
+  width: 168.23px;
+  height: 36.77px;
+}
+.vector-icon8 {
+  position: absolute;
+  height: 4.94%;
+  width: 8.79%;
+  top: 91.32%;
+  right: 3.85%;
+  bottom: 3.74%;
+  left: 87.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 73.55px;
+  height: 30px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.rectangle-parent7,
+.sanpham {
+  position: absolute;
+  top: 748px;
+  left: 483px;
+  width: 472px;
+  height: 668px;
+}
+.sanpham {
+  top: 1205px;
+  left: -6px;
+  width: 1447px;
+  height: 1736px;
+  overflow: hidden;
+  font-size: var(--font-size-17xl);
+}
+.danh-sch-sn {
+  position: absolute;
+  top: 1083px;
+  left: 542px;
+  font-size: var(--font-size-21xl);
+}
+.menu-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-thistle);
+  width: 1440px;
+  height: 182px;
+}
+.gi-hng,
+.lin-h,
+.sn-phm1,
+.trang-ch1 {
+  position: absolute;
+  top: 72px;
+  left: 210px;
+  font-weight: 500;
+}
+.gi-hng,
+.lin-h,
+.sn-phm1 {
+  left: 418px;
+  display: inline-block;
+  width: 154px;
+}
+.gi-hng,
+.lin-h {
+  left: 633px;
+  height: 39px;
+}
+.gi-hng {
+  left: 804px;
+  mix-blend-mode: normal;
+}
+.user-alt-icon,
+.vector-icon9 {
+  position: absolute;
+  top: 68px;
+  left: 1263px;
+  width: 39px;
+  height: 37px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.vector-icon9 {
+  height: 18.66%;
+  width: 2.71%;
+  top: 38.1%;
+  right: 4.44%;
+  bottom: 43.24%;
+  left: 92.85%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.menu-item {
+  position: absolute;
+  top: 62px;
+  left: 982px;
+  border-radius: var(--br-46xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 251px;
+  height: 49px;
+}
+.vector-icon10 {
+  position: absolute;
+  height: 15.49%;
+  width: 2.5%;
+  top: 39.85%;
+  right: 15.21%;
+  bottom: 44.66%;
+  left: 82.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tm-kim {
+  position: absolute;
+  top: 73px;
+  left: 999px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-gray-400);
+}
+.image-2-icon {
+  position: absolute;
+  top: 22px;
+  left: 7px;
+  width: 171px;
+  height: 127px;
+  object-fit: cover;
+}
+.menu-inner {
+  position: absolute;
+  top: 34px;
+  left: 15px;
+  width: 143px;
+  height: 90px;
+  overflow: hidden;
+  display: none;
+}
+.image-7-icon,
+.menu {
+  position: absolute;
+  top: 0;
+}
+.menu {
+  left: 0;
+  width: 1440px;
+  height: 182px;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+}
+.image-7-icon {
+  height: 100%;
+  width: 100%;
+  right: -0.76%;
+  bottom: 0;
+  left: 0.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.banner {
+  position: absolute;
+  top: 174px;
+  left: -11px;
+  width: 1451px;
+  height: 833px;
+}
+.sn-phm {
+  position: relative;
+  background-color: var(--color-snow);
+  width: 100%;
+  height: 3592px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-times-new-roman);
+}
